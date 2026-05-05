@@ -5,7 +5,8 @@
     <br>I'm a Computer Engineering Student from Bolivia
   </samp>
   <br>
-  <img src="https://www.pkparaiso.com/imagenes/xy/sprites/animados/sableye-3.gif" width="300"/>
+  <!-- Aquí está el nuevo GIF de Fallout -->
+  <img src="https://media.tenor.com/7123986/7123986.gif" width="300" alt="Fallout Hacker"/>
 </p>
 
 <details>
@@ -39,3 +40,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=ffffff&label=VISITORS"/>
 </p>
+```http://googleusercontent.com/image_generation_content/137
