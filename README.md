@@ -1,12 +1,17 @@
 <div align="center">
   <img src="./assets/hello.svg" alt="Hello there! I'm Francopaaa." />
-  <br><br>
-  <samp>
-    I'm a Computer Engineering Student from Bolivia
-  </samp>
-  <br><br>
-  <img src="assets/fallout.gif" width="300" alt="Fallout Hacker"/>
 </div>
+
+<br>
+
+<div>
+  <img align="right" src="assets/cross.gif" width="250" alt="Cross"/>
+  <br>
+  <samp>
+    Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others. 
+  </samp>
+</div>
+<br clear="both"/>
 
 <br>
 
@@ -42,4 +47,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=ffffff&label=VISITORS" alt="Visitors Badge"/>
 </div>
-
