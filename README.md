@@ -6,7 +6,7 @@
   </samp>
   <br>
   <!-- Aquí está la etiqueta de imagen actualizada para usar tu archivo local -->
-  <img src="assets/fallout-hacker.gif" width="300" alt="Fallout Hacker"/>
+  <img src="assets/fallout.gif" width="300" alt="Fallout Hacker"/>
 </p>
 
 <details>
