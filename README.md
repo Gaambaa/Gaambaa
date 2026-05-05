@@ -21,8 +21,10 @@
 
 <br>
 
-## About me
+<h2 align="center">About me</h2>
 <div>
+  <img align="left" src="assets/yoel.png" width="250" alt="Yoel"/>
+  <br>
   <samp>
     📍 Born in Santa Cruz, currently living in Cochabamba, Bolivia.<br>
     🎓 Studying Computer Engineering at Universidad Mayor de San Simón.<br>
@@ -31,10 +33,11 @@
     💛 Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.<br>
   </samp>
 </div>
+<br clear="both"/>
 
 <br>
 
-## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+## Skills 
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff)
