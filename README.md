@@ -1,13 +1,14 @@
-<p align="center">
-  <br>
+<div align="center">
+  <img src="./assets/hello.svg" alt="Hello there! I'm Francopaaa." />
+  <br><br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/wGamba">Francopaaa</a></b>.
-    <br>I'm a Computer Engineering Student from Bolivia
+    I'm a Computer Engineering Student from Bolivia
   </samp>
-  <br>
-  <!-- Aquí está la etiqueta de imagen actualizada para usar tu archivo local -->
+  <br><br>
   <img src="assets/fallout.gif" width="300" alt="Fallout Hacker"/>
-</p>
+</div>
+
+<br>
 
 <details>
   <summary><b>About me</b></summary>
@@ -37,6 +38,8 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffffff)
 
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=ffffff&label=VISITORS"/>
-</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=ffffff&label=VISITORS" alt="Visitors Badge"/>
+</div>
+
