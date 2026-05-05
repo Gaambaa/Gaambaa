@@ -21,17 +21,16 @@
 
 <br>
 
-<b>About me</b>
-<br>
-<samp>
-  <ul>
-    <li>Born in Santa Cruz, currently living in Cochabamba, Bolivia.</li>
-    <li>Studying Computer Engineering at Universidad Mayor de San Simón.</li>
-    <li>Bilingual: Spanish & English.</li>
-    <li>Mastering DevOps, Linux, Cybersecurity, and Automations.</li>
-    <li>Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.</li>
-  </ul>
-</samp>
+## About me
+<div>
+  <samp>
+    📍 Born in Santa Cruz, currently living in Cochabamba, Bolivia.<br>
+    🎓 Studying Computer Engineering at Universidad Mayor de San Simón.<br>
+    🗣️ Bilingual: Spanish & English.<br>
+    💻 Mastering DevOps, Linux, Cybersecurity, and Automations.<br>
+    💛 Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.<br>
+  </samp>
+</div>
 
 <br>
 
