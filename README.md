@@ -30,7 +30,8 @@
     🎓 Studying Computer Engineering at Universidad Mayor de San Simón.<br>
     🗣️ Bilingual: Spanish & English.<br>
     💻 Mastering DevOps, Linux, Cybersecurity, and Automations.<br>
-    🥇 Winner of the CochaAI Challenge at Cochatech 2026: Won the social challenge and selected as one of the 18 overall finalists by building QuantumBot, an AI-powered chatbot.<br>
+    🥇 CochaAl 2026 Finalist & Team Leader: Won the Quantum Motors Social Challenge by
+engineering an omnichannel Al chatbot. Competitor in the grand finals.<br>
     💛 Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.<br>
   </samp>
 </div>
