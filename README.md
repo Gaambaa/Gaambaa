@@ -3,8 +3,11 @@
 </div>
 
 <div>
-  <img align="right" src="assets/cross.gif" width="100" alt="Cross"/>
-  <h4><samp>Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.</samp></h4>
+  <img align="right" src="assets/cross.gif" width="180" alt="Cross"/>
+  <h4><samp>
+    Computer Engineering student driven by continuous learning,<br>
+    collaborative problem-solving, and a genuine desire to help others.
+  </samp></h4>
 </div>
 <br clear="both"/>
 
