@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-<h2 align="center">About me</h2>
+<h2 align="center"><samp>About me</samp></h2>
 <div>
   <samp>
     <ul>
@@ -30,7 +30,7 @@
 </div>
 <br clear="both"/>
 
-<h2 align="center">Skills</h2>
+<h2 align="center"><samp>Skills</samp></h2>
 <div align="center">
 
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=0d1117)
