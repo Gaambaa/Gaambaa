@@ -1,10 +1,9 @@
-<img align="right" src="assets/cross.gif" width="200" alt="Cross"/>
-
 <div align="center">
 <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
 </div>
 <h2 align="center"><samp>About me</samp></h2>
 <div>
+<img align="right" src="assets/cross.gif" width="150" alt="Cross"/>
 <h4>
 <samp>
 <ul>
@@ -18,6 +17,8 @@
 </samp>
 </h4>
 </div>
+<br clear="both"/>
+
 <h2 align="center"><samp>Skills</samp></h2>
 <div align="center">
 
