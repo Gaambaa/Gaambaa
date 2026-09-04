@@ -6,7 +6,9 @@
   <img align="right" src="assets/cross.gif" width="150" alt="Cross"/>
   <br>
   <samp>
-    Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.
+    <div style="max-width: 50%;">
+      Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.
+    </div>
   </samp>
 </div>
 <br clear="both"/>
