@@ -1,6 +1,7 @@
+<img align="right" src="assets/cross.gif" width="200" alt="Cross"/>
+
 <div align="center">
 <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
-<img src="assets/cross.gif" width="130" alt="Cross"/>
 </div>
 <h2 align="center"><samp>About me</samp></h2>
 <div>
@@ -32,6 +33,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0d1117)
 
 </div>
+<br clear="both"/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=0d1117&label=VISITORS" alt="Visitors Badge"/>
