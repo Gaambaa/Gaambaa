@@ -1,15 +1,7 @@
 <div align="center">
   <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
+  <img src="assets/cross.gif" width="60" alt="Cross"/>
 </div>
-
-<div>
-  <img align="right" src="assets/cross.gif" width="180" alt="Cross"/>
-  <h4><samp>
-    Computer Engineering student driven by continuous learning,<br>
-    collaborative problem-solving, and a genuine desire to help others.
-  </samp></h4>
-</div>
-<br clear="both"/>
 
 <h2 align="center"><samp>About me</samp></h2>
 <div>
