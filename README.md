@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./assets/hello.svg" alt="Hello there! I'm Francopaaa." />
+  <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
 </div>
 
 <div>
-  <img align="right" src="assets/cross.gif" width="250" alt="Cross"/>
+  <img align="right" src="assets/cross.gif" width="150" alt="Cross"/>
   <br>
   <samp>
     Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.
