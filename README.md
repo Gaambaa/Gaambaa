@@ -2,24 +2,14 @@
   <img src="./assets/hello.svg" alt="Hello there! I'm Francopaaa." />
 </div>
 
-<br>
-
 <div>
   <img align="right" src="assets/cross.gif" width="250" alt="Cross"/>
   <br>
   <samp>
     Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.
-    <br><br>
-    <b>Currently focused on:</b><br>
-    Automation<br>
-    Artificial Intelligence<br>
-    Cybersecurity<br>
-    Hackathons
   </samp>
 </div>
 <br clear="both"/>
-
-<br>
 
 <h2 align="center">About me</h2>
 <div>
@@ -36,8 +26,6 @@
 </div>
 <br clear="both"/>
 
-<br>
-
 <h2 align="center">Skills</h2>
 <div align="center">
 
@@ -53,8 +41,6 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0d1117)
 
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=0d1117&label=VISITORS" alt="Visitors Badge"/>
