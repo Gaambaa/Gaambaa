@@ -9,6 +9,7 @@
 <br>
 <ul>
 <br>
+<br>
 <li>Based in Cochabamba, Bolivia.</li>
 <li>Studying Computer Engineering at Universidad Mayor de San Simón (UMSS).</li>
 <li>Bilingual: Spanish & English.</li>
