@@ -11,10 +11,10 @@
     Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.
     <br><br>
     <b>Currently focused on:</b><br>
-    ⚙️ Automation<br>
-    🤖 Artificial Intelligence<br>
-    🛡️ Cybersecurity<br>
-    🚀 Hackathons
+    Automation<br>
+    Artificial Intelligence<br>
+    Cybersecurity<br>
+    Hackathons
   </samp>
 </div>
 <br clear="both"/>
@@ -23,36 +23,39 @@
 
 <h2 align="center">About me</h2>
 <div>
-  <img align="left" src="assets/yoel.png" width="250" alt="Yoel"/>
-  <br>
   <samp>
-    📍 Born in Santa Cruz, currently living in Cochabamba, Bolivia.<br>
-    🎓 Studying Computer Engineering at Universidad Mayor de San Simón.<br>
-    🗣️ Bilingual: Spanish & English.<br>
-    💻 Mastering DevOps, Linux, Cybersecurity, and Automations.<br>
-    🥇 CochaAl 2026 Finalist & Team Leader: Won the Quantum Motors Social Challenge by
-engineering an omnichannel Al chatbot. Competitor in the grand finals.<br>
-    💛 Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.<br>
+    <ul>
+      <li>Based in Cochabamba, Bolivia.</li>
+      <li>Studying Computer Engineering at Universidad Mayor de San Simón (UMSS).</li>
+      <li>Bilingual: Spanish & English.</li>
+      <li>Mastering DevOps, Linux, Backend, and Automations.</li>
+      <li>CochaAI 2026 Finalist & Team Leader — won the Quantum Motors Challenge with an omnichannel AI chatbot. Grand finals competitor.</li>
+      <li>Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.</li>
+    </ul>
   </samp>
 </div>
 <br clear="both"/>
 
 <br>
 
-## Skills 
-![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Tool-n8n-informational?style=flat&logo=n8n&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=ffffff)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffffff)
+<h2 align="center">Skills</h2>
+<div align="center">
+
+![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=0d1117)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=0d1117)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=0d1117)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0d1117)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0d1117)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=0d1117)
+![](https://img.shields.io/badge/Tool-n8n-informational?style=flat&logo=n8n&logoColor=white&color=0d1117)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0d1117)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=0d1117)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0d1117)
+
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=ffffff&label=VISITORS" alt="Visitors Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=0d1117&label=VISITORS" alt="Visitors Badge"/>
 </div>

@@ -13,24 +13,22 @@
         /* Asegúrate de que el nombre coincida exactamente con el de tu @font-face */
         font-family: "RubikBurned-Regular", system-ui;
         font-size: 36px;
-        animation: vibrate 0.2s linear infinite both;
-      }
-
-      /* Esto adapta el color si usan GitHub en modo claro u oscuro */
-      @media (prefers-color-scheme: dark) {
-        .vibrate { fill: #ffffff; }
-      }
-      @media (prefers-color-scheme: light) {
-        .vibrate { fill: #000000; }
+        animation: vibrate 0.6s linear infinite both;
+        /* Contorno en vez de depender del media query (prefers-color-scheme sigue
+           el SO, no el tema elegido en GitHub, así que a veces se volvía invisible) */
+        fill: #ffffff;
+        stroke: #000000;
+        stroke-width: 1px;
+        paint-order: stroke fill;
       }
 
       /* Efecto de vibración */
       @keyframes vibrate {
         0% { transform: translate(0) }
-        20% { transform: translate(-2px, 2px) }
-        40% { transform: translate(-2px, -2px) }
-        60% { transform: translate(2px, 2px) }
-        80% { transform: translate(2px, -2px) }
+        20% { transform: translate(-0.5px, 0.5px) }
+        40% { transform: translate(-0.5px, -0.5px) }
+        60% { transform: translate(0.5px, 0.5px) }
+        80% { transform: translate(0.5px, -0.5px) }
         100% { transform: translate(0) }
       }
     </style>
