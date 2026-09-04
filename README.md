@@ -1,25 +1,25 @@
 <table>
-  <tr>
-    <td width="75%" valign="top">
+<tr>
+<td width="75%" valign="top">
 
 <div align="center">
-  <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
+<img src="./assets/hello.svg" alt="Hello, I'm Franco" />
 </div>
 
 <h2 align="center"><samp>About me</samp></h2>
 <div>
-  <h4>
-    <samp>
-      <ul>
-        <li>Based in Cochabamba, Bolivia.</li>
-        <li>Studying Computer Engineering at Universidad Mayor de San Simón (UMSS).</li>
-        <li>Bilingual: Spanish & English.</li>
-        <li>Mastering DevOps, Linux, Backend, and Automations.</li>
-        <li>CochaAI 2026 Finalist & Team Leader — won the Quantum Motors Challenge with an omnichannel AI chatbot. Grand finals competitor.</li>
-        <li>Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.</li>
-      </ul>
-    </samp>
-  </h4>
+<h4>
+<samp>
+<ul>
+<li>Based in Cochabamba, Bolivia.</li>
+<li>Studying Computer Engineering at Universidad Mayor de San Simón (UMSS).</li>
+<li>Bilingual: Spanish & English.</li>
+<li>Mastering DevOps, Linux, Backend, and Automations.</li>
+<li>CochaAI 2026 Finalist & Team Leader — won the Quantum Motors Challenge with an omnichannel AI chatbot. Grand finals competitor.</li>
+<li>Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.</li>
+</ul>
+</samp>
+</h4>
 </div>
 
 <h2 align="center"><samp>Skills</samp></h2>
@@ -38,13 +38,13 @@
 
 </div>
 
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="assets/cross.gif" width="220" alt="Cross"/>
-    </td>
-  </tr>
+</td>
+<td width="25%" align="center" valign="middle">
+<img src="assets/cross.gif" width="220" alt="Cross"/>
+</td>
+</tr>
 </table>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=0d1117&label=VISITORS" alt="Visitors Badge"/>
+<img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=0d1117&label=VISITORS" alt="Visitors Badge"/>
 </div>
