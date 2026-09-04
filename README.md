@@ -1,7 +1,13 @@
-<div align="center">
-  <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
-  <img src="assets/cross.gif" width="60" alt="Cross"/>
-</div>
+<table>
+  <tr>
+    <td width="75%" align="left">
+      <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
+    </td>
+    <td width="25%" align="center">
+      <img src="assets/cross.gif" width="110" alt="Cross"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center"><samp>About me</samp></h2>
 <div>
