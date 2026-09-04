@@ -3,9 +3,10 @@
 </div>
 <h2 align="center"><samp>About me</samp></h2>
 <div>
-<img align="right" src="assets/cross.gif" width="150" alt="Cross"/>
+<img align="right" src="assets/cross.gif" width="210" alt="Cross"/>
 <h4>
 <samp>
+<br>
 <ul>
 <li>Based in Cochabamba, Bolivia.</li>
 <li>Studying Computer Engineering at Universidad Mayor de San Simón (UMSS).</li>
