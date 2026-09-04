@@ -2,16 +2,18 @@
   <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
 </div>
 
-<div>
-  <img align="right" src="assets/cross.gif" width="150" alt="Cross"/>
-  <br>
-  <samp>
-    <div style="max-width: 50%;">
-      Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.
-    </div>
-  </samp>
-</div>
-<br clear="both"/>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <samp>
+        Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.
+      </samp>
+    </td>
+    <td width="40%" align="center">
+      <img src="assets/cross.gif" width="120" alt="Cross"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">About me</h2>
 <div>
