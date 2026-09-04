@@ -1,11 +1,7 @@
-<table>
-<tr>
-<td width="75%" valign="top">
-
 <div align="center">
 <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
+<img src="assets/cross.gif" width="130" alt="Cross"/>
 </div>
-
 <h2 align="center"><samp>About me</samp></h2>
 <div>
 <h4>
@@ -21,7 +17,6 @@
 </samp>
 </h4>
 </div>
-
 <h2 align="center"><samp>Skills</samp></h2>
 <div align="center">
 
@@ -37,13 +32,6 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0d1117)
 
 </div>
-
-</td>
-<td width="25%" align="center" valign="middle">
-<img src="assets/cross.gif" width="220" alt="Cross"/>
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wGamba&style=flat&color=0d1117&label=VISITORS" alt="Visitors Badge"/>
