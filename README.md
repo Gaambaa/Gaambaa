@@ -2,33 +2,27 @@
   <img src="./assets/hello.svg" alt="Hello, I'm Franco" />
 </div>
 
-<table>
-  <tr>
-    <td width="60%" valign="middle">
-      <samp>
-        Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.
-      </samp>
-    </td>
-    <td width="40%" align="center">
-      <img src="assets/cross.gif" width="120" alt="Cross"/>
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="right" src="assets/cross.gif" width="100" alt="Cross"/>
+  <h4><samp>Computer Engineering student driven by continuous learning, collaborative problem-solving, and a genuine desire to help others.</samp></h4>
+</div>
+<br clear="both"/>
 
 <h2 align="center"><samp>About me</samp></h2>
 <div>
-  <samp>
-    <ul>
-      <li>Based in Cochabamba, Bolivia.</li>
-      <li>Studying Computer Engineering at Universidad Mayor de San Simón (UMSS).</li>
-      <li>Bilingual: Spanish & English.</li>
-      <li>Mastering DevOps, Linux, Backend, and Automations.</li>
-      <li>CochaAI 2026 Finalist & Team Leader — won the Quantum Motors Challenge with an omnichannel AI chatbot. Grand finals competitor.</li>
-      <li>Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.</li>
-    </ul>
-  </samp>
+  <h4>
+    <samp>
+      <ul>
+        <li>Based in Cochabamba, Bolivia.</li>
+        <li>Studying Computer Engineering at Universidad Mayor de San Simón (UMSS).</li>
+        <li>Bilingual: Spanish & English.</li>
+        <li>Mastering DevOps, Linux, Backend, and Automations.</li>
+        <li>CochaAI 2026 Finalist & Team Leader — won the Quantum Motors Challenge with an omnichannel AI chatbot. Grand finals competitor.</li>
+        <li>Official member of <a href="https://www.bvb.de/" target="_blank" rel="noopener noreferrer">Borussia Dortmund</a> since 2023. Fan since 2013.</li>
+      </ul>
+    </samp>
+  </h4>
 </div>
-<br clear="both"/>
 
 <h2 align="center"><samp>Skills</samp></h2>
 <div align="center">
